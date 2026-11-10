@@ -1,6 +1,3 @@
-<<<<<<< Updated upstream
-# TP1Docker
-=======
 # Compte-Rendu de TP : Manipulation de Docker & Serveur Web
 
 Ce README documente les différentes étapes réalisées lors du TP de Docker (Université Toulouse Capitole), basées sur les manipulations de base des conteneurs et la création d'un serveur web Nginx.
@@ -82,4 +79,3 @@ Vérification finale pour s'assurer que le conteneur n'est plus actif :
 ```bash
 docker ps
 ```
->>>>>>> Stashed changes
